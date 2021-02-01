@@ -29,12 +29,12 @@ export default function Home() {
           📧 or by e-mail <a href="mailto:vivien.erwan@gmail.com">vivien.erwan@gmail.com</a>.
         </p>
         <p>
-          💰 If you want to contribute to my happiness <a href="https://www.patreon.com/erwanvivien">you can always be a patreon of mine</a>.
+          💰 If you want to contribute to my happiness you can always <a href="https://www.patreon.com/erwanvivien">become a patreon of mine</a>.
         </p>
         <br></br>
       </section>
       <footer>
-        🤙 Do you want to contact me ? <a href="tel:+33642490018">+33 6 42 49 00 18</a>.
+        🤙 Do you want to get in touch ? <a href="tel:+33642490018">+33 6 42 49 00 18</a>.
       </footer>
     </Layout>
   )
