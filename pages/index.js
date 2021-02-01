@@ -34,7 +34,7 @@ export default function Home() {
         <br></br>
       </section>
       <footer>
-        🤙 Do you want to get in touch ? <a href="tel:+33642490018">+33 6 42 49 00 18</a>.
+        {/* 🤙 Do you want to get in touch ? <a href="tel:+33642490018">+33 6 42 49 00 18</a>. */}
       </footer>
     </Layout>
   )
